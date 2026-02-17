@@ -1,9 +1,6 @@
-# moritv
-Mori TV: página web creada especialmente para mi pareja que sirve para ver capítulos aleatorios de Bob Esponja en formato 4:3, pantalla completa y con cambio automático de episodio. Funciona en PC, teléfono y TV.
+# MoriTV
 
-# MORI TV
-
-**MORITV** es una página web sencilla que simula ver Bob Esponja en la televisión.  
+**MoriTV** es una página web sencilla que simula ver Bob Esponja en la televisión.  
 
 - Los episodios se reproducen de manera **aleatoria** apenas abres la página.  
 - Cuando termina un episodio, automáticamente se reproduce otro.  
