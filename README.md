@@ -5,7 +5,7 @@
 - Los episodios se reproducen de manera **aleatoria** apenas abres la página.  
 - Cuando termina un episodio, automáticamente se reproduce otro.  
 - El video mantiene el formato **4:3**, centrado en pantalla completa con barras negras.  
-- Puedes cambiar de episodio manualmente usando el botón **⏭** que aparece abajo a la derecha.  
+- Puedes cambiar de episodio manualmente usando el botón **Cambiar Capitulo** que aparece abajo a la derecha.  
 - Funciona en **PC, teléfono y TV**.
 
 ---
